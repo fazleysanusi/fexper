@@ -1,0 +1,9 @@
+1) get list of file.
+2)download news
+3) batch processing
+4) separate function related based on method
+5) finance add column date
+6) add 5 major pair currency
+7) RSS to list news 
+8) split by sentences
+9) recognize USD/EUR being Discuss in the article 
